@@ -1,0 +1,72 @@
+<monitors version="1">
+  <configuration>
+    <clone>no</clone>
+    <output name="DVII41">
+      <vendor>BNQ</vendor>
+      <product>BenQ GL2450H</product>
+      <serial>T1G02425019</serial>
+      <width>1920</width>
+      <height>1080</height>
+      <rate>60.000495910644531</rate>
+      <x>1920</x>
+      <y>0</y>
+      <rotation>normal</rotation>
+      <reflect_x>no</reflect_x>
+      <reflect_y>no</reflect_y>
+      <primary>yes</primary>
+      <presentation>no</presentation>
+      <underscanning>no</underscanning>
+    </output>
+    <output name="DisplayPort47">
+      <vendor>IVM</vendor>
+      <product>PLG2488H</product>
+      <serial>0</serial>
+      <width>1920</width>
+      <height>1080</height>
+      <rate>60.000495910644531</rate>
+      <x>0</x>
+      <y>0</y>
+      <rotation>normal</rotation>
+      <reflect_x>no</reflect_x>
+      <reflect_y>no</reflect_y>
+      <primary>no</primary>
+      <presentation>no</presentation>
+      <underscanning>no</underscanning>
+    </output>
+  </configuration>
+  <configuration>
+    <clone>no</clone>
+    <output name="DP-2">
+      <vendor>IVM</vendor>
+      <product>PLG2488H</product>
+      <serial>0</serial>
+      <width>1920</width>
+      <height>1080</height>
+      <rate>60</rate>
+      <x>0</x>
+      <y>0</y>
+      <rotation>normal</rotation>
+      <reflect_x>no</reflect_x>
+      <reflect_y>no</reflect_y>
+      <primary>yes</primary>
+      <presentation>no</presentation>
+      <underscanning>no</underscanning>
+    </output>
+    <output name="DVI-I-1">
+      <vendor>BNQ</vendor>
+      <product>BenQ GL2450H</product>
+      <serial>T1G02425019</serial>
+      <width>1920</width>
+      <height>1080</height>
+      <rate>60</rate>
+      <x>1920</x>
+      <y>0</y>
+      <rotation>normal</rotation>
+      <reflect_x>no</reflect_x>
+      <reflect_y>no</reflect_y>
+      <primary>no</primary>
+      <presentation>no</presentation>
+      <underscanning>no</underscanning>
+    </output>
+  </configuration>
+</monitors>
